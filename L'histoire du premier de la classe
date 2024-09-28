@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>La Course au Premier Rang</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        h1, h2 {
+            text-align: center;
+            color: #2c3e50;
+        }
+        section {
+            margin: 20px 0;
+            padding: 20px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        p, li {
+            font-size: 16px;
+            line-height: 1.6;
+        }
+        .dialogue {
+            margin-left: 20px;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>La Course au Premier Rang</h1>
+
+    <section>
+        <h2>Personnages :</h2>
+        <ul>
+            <li><strong>Lucas</strong> : Élève studieux, rêve de devenir le premier de la classe.</li>
+            <li><strong>Maman de Lucas</strong> : Encourage Lucas mais insiste sur l’importance de l’équilibre.</li>
+            <li><strong>Professeur</strong> : Juste et bienveillant, il conseille ses élèves.</li>
+            <li><strong>Max</strong> : Premier de la classe actuel, mais humble et aide Lucas à comprendre les vraies valeurs.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Scène 1 : Chambre de Lucas</h2>
+        <p>(Lucas est assis à son bureau, entouré de livres et de feuilles. On voit son calendrier rempli d'horaires d'études stricts. Il soupire profondément.)</p>
+        <p class="dialogue"><strong>Lucas</strong> (pensif) : Cette fois-ci, je vais réussir. Je dois être le premier, je ne veux plus être deuxième... Il faut que je travaille encore plus !</p>
+        <p>(Sa mère frappe à la porte et entre doucement.)</p>
+        <p class="dialogue"><strong>Maman de Lucas</strong> : Lucas, tu travailles encore ? Tu devrais faire une petite pause.</p>
+        <p class="dialogue"><strong>Lucas</strong> (déterminé) : Non maman, je n'ai pas le temps. Si je veux être le premier de la classe, je dois travailler plus que tout le monde.</p>
+        <p class="dialogue"><strong>Maman de Lucas</strong> (inquiète) : Tu sais, Lucas, c'est bien d’avoir des ambitions, mais il faut aussi penser à te reposer. Être premier ne doit pas être ta seule préoccupation.</p>
+        <p class="dialogue"><strong>Lucas</strong> (frustré) : Tu ne comprends pas, maman ! Je veux prouver que je suis capable de réussir. Max est toujours le meilleur, et moi je reste dans son ombre.</p>
+    </section>
+
+    <section>
+        <h2>Scène 2 : En classe</h2>
+        <p>(Lucas est concentré en classe, répondant à toutes les questions du professeur avec enthousiasme. Max, assis à côté de lui, observe discrètement.)</p>
+        <p class="dialogue"><strong>Professeur</strong> : Très bien, Lucas, excellent travail encore une fois. Mais n'oublie pas que l'apprentissage n'est pas qu'une question de performance, c’est aussi une question de compréhension profonde.</p>
+        <p class="dialogue"><strong>Max</strong> (à voix basse) : Tu sais, Lucas, être premier, ce n'est pas tout.</p>
+        <p class="dialogue"><strong>Lucas</strong> (étonné) : Facile à dire pour toi, tu es toujours premier ! Moi, je dois travailler deux fois plus pour essayer de t’égaler.</p>
+        <p class="dialogue"><strong>Max</strong> (souriant) : Je comprends ce que tu ressens, mais tu ne devrais pas te comparer à moi. L’essentiel, c’est d’apprendre, pas de battre les autres.</p>
+        <p class="dialogue"><strong>Lucas</strong> (hésitant) : Mais alors, pourquoi tu travailles autant si ça ne te dérange pas d’être battu ?</p>
+        <p class="dialogue"><strong>Max</strong> : Parce que j'aime apprendre. Quand tu fais quelque chose par passion, les résultats suivent. Mais si tu fais tout juste pour être premier, tu risques de perdre le plaisir d'apprendre.</p>
+    </section>
+
+    <section>
+        <h2>Scène 3 : Le soir, à la maison</h2>
+        <p>(Lucas est allongé sur son lit, pensif. Il repense aux mots de Max et à la conversation avec sa mère.)</p>
+        <p class="dialogue"><strong>Lucas</strong> (à lui-même) : Peut-être qu'ils ont raison. Je suis tellement obsédé par l'idée d’être le premier que j’ai oublié pourquoi j’aime étudier...</p>
+        <p>(Il prend un livre, s'assoit à son bureau, mais cette fois, il feuillette les pages avec curiosité plutôt que stress.)</p>
+        <p class="dialogue"><strong>Lucas</strong> (souriant) : Peut-être que la vraie victoire, c’est de comprendre et de grandir, pas seulement de battre les autres.</p>
+    </section>
+
+    <section>
+        <h2>Scène 4 : En classe, quelques semaines plus tard</h2>
+        <p>(Lucas semble plus détendu, participe toujours activement en classe, mais avec moins de pression. À la fin d’un test, les résultats sont affichés.)</p>
+        <p class="dialogue"><strong>Professeur</strong> : Félicitations à tous pour vos efforts ! Lucas, cette fois-ci, tu es le premier de la classe. Bravo !</p>
+        <p>(Lucas regarde les résultats, surpris, mais reste calme. Max le félicite avec un sourire.)</p>
+        <p class="dialogue"><strong>Max</strong> : Alors, qu’est-ce que ça fait d’être premier ?</p>
+        <p class="dialogue"><strong>Lucas</strong> (souriant) : C’est sympa, mais tu sais quoi ? Je crois que j’ai enfin compris ce qui est vraiment important.</p>
+        <p class="dialogue"><strong>Max</strong> : Et c'est ?</p>
+        <p class="dialogue"><strong>Lucas</strong> : Apprendre et s'améliorer, pour soi-même, pas juste pour le classement.</p>
+        <p>(Les deux échangent un regard complice et sortent ensemble de la classe, prêts pour de nouvelles aventures.)</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 La Course au Premier Rang - Tous droits réservés</p>
+    </footer>
+
+</body>
+</html>
